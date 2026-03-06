@@ -36,4 +36,4 @@ No installation needed. Just follow these steps:
 
 ## Live Demo
 
-[Click here to view the live demo](https://github.com/maaz-afzal/temperature-converter/)
+[Click here to view the live demo](https://maaz-afzal.github.io/temperature-converter/)
